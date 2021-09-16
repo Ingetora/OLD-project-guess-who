@@ -33,4 +33,4 @@ If I had had more time, I would have worked on this:
 
 ## View it live
 
-https://kind-cori-ebb868.netlify.app/
+https://elegant-kilby-50ab56.netlify.app/
